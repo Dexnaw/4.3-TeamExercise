@@ -8,6 +8,8 @@ This exercise will show the process of collaboration with different team members
 - Person 1 (owner):
 	- To be able to share the same repository, the repository's owner needs to add
 access for the other team member. This is done using the server 's web interface.
+Here's how that's done using GitHub:
+![Preview](git.png "Preview")
 
 - Person 2 (collaborator):
 	- Accept the collaboration request sent to you (by email) by your team member.
